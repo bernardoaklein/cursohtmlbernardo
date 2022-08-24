@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>tema 2 da aula 9/07</title>
+</head>
+<body>
+
+<h1>temazinho</h1>
+<p>link to the w3schools Page
+    <a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default">HTMLtester</a>
+</p>
+<p>peixinho na brasa credo que delicia</p>
+<a href="https://revistacasaejardim.globo.com/Casa-e-Comida/Receitas/Pratos-principais/Peixe-e-frutos-do-mar/noticia/2016/02/16-receitas-com-peixe.html"><img src="http://s2.glbimg.com/sGfe5ndqXQ_LPvFNH24x0akv0NE=/300x375/e.glbimg.com/og/ed/f/original/2014/02/03/cc22api_184.jpg" alt="3">
+</body>
+</html>

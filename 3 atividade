@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>tema da primeira aula</title>
+</head>
+
+<body>
+    <h1>criar lista ordenada</h1>
+        <p>criar uma lista ordenada e botar qqr coisa</p>
+            <li>teste 1</li>
+            <li>teste 2</li>
+            <li>teste 3</li>
+            <li>teste 4</li>
+            <li>teste 5</li>
+</body>

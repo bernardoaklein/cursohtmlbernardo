@@ -1,0 +1,9 @@
+table {
+
+    border: 2px solid;
+    border-collapse:collapse;
+    width: 600px;
+    color: indigo;
+}
+h1 {color: red;}
+td,th {padding: 5px;}

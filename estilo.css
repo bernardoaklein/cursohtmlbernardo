@@ -1,9 +1,36 @@
 table {
-
     border: 2px solid;
-    border-collapse:collapse;
+    border-collapse: collapse;
     width: 600px;
     color: indigo;
-}
-h1 {color: red;}
-td,th {padding: 5px;}
+    margin-right: auto;
+    text-align: center;
+  }
+  
+  thead {
+    border: 2px solid;
+  }
+  
+  h1 {
+    color: red;
+  }
+  
+  span {
+    padding: 8px;
+  }
+  
+  .first-column {
+    text-align: left;
+  }
+  
+  .light-gray {
+    background-color: #EAEAEA;
+  }
+  
+  .dark-gray {
+    background-color: #D3D3D3;
+  }
+  
+  td,th {
+    padding: 5px;
+  }
